@@ -39,3 +39,4 @@ https://github.com/dypsilon/frontend-dev-bookmarks
 ## 前端开发笔记本	https://li-xinyang.gitbooks.io/frontend-notebook/content
 ## 大前端工具集 – 聂微东	https://github.com/nieweidong/fetool
 ## 前端开发者手册	https://dwqs.gitbooks.io/frontenddevhandbook/content
+## 综合 https://lq782655835.github.io/blogs/vue/vue-api-usage.html
