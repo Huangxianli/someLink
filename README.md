@@ -2,6 +2,8 @@
 一些链接
 ## 基础强化--前端面试
 https://fecommunity.github.io/front-end-interview/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/HTML%E7%9B%B8%E5%85%B3/1.HTML%E5%9F%BA%E7%A1%80%E5%BC%BA%E5%8C%96.html
+## vuex 
+https://vuex.vuejs.org/zh/#%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86%E6%A8%A1%E5%BC%8F%E2%80%9D%EF%BC%9F
 ## 力扣算法
 https://github.com/youngyangyang04/leetcode-master
 ## 阿离王前端博客
