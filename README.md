@@ -14,6 +14,8 @@ https://github.com/yaofly2012/note/issues/188
 https://www.cnblogs.com/gzhjj/p/11387871.html
 ## 前端知识体系和框架与工具
 http://www.cnblogs.com/sb19871023/p/3894452.html
+## vue router
+https://router.vuejs.org/zh/
 ## 
 ## 前端知识体系
 http://www.cnblogs.com/sb19871023/p/3894452.html
