@@ -14,9 +14,7 @@ https://github.com/yaofly2012/note/issues/188
 https://www.cnblogs.com/gzhjj/p/11387871.html
 ## 前端知识体系和框架与工具
 http://www.cnblogs.com/sb19871023/p/3894452.html
-
-
-
+## 
 ## 前端知识体系
 http://www.cnblogs.com/sb19871023/p/3894452.html
 ## 前端知识结构	
@@ -44,8 +42,7 @@ https://github.com/dypsilon/frontend-dev-bookmarks
 ## 大前端工具集 – 聂微东	https://github.com/nieweidong/fetool
 ## 前端开发者手册	https://dwqs.gitbooks.io/frontenddevhandbook/content
 ## 综合 https://lq782655835.github.io/blogs/vue/vue-api-usage.html
-
-## 综合类
+## 
 ## 综合类	地址
 ## 前端知识体系	http://www.cnblogs.com/sb19871023/p/3894452.html
 ## 前端知识结构	https://github.com/JacksonTian/fks
@@ -68,14 +65,14 @@ https://github.com/dypsilon/frontend-dev-bookmarks
 ## 前端开发笔记本	https://li-xinyang.gitbooks.io/frontend-notebook/content
 ## 大前端工具集 – 聂微东	https://github.com/nieweidong/fetool
 ## 前端开发者手册	https://dwqs.gitbooks.io/frontenddevhandbook/content
-
+## 
 ## 入门类	地址
 ## 前端入门教程	http://www.cnblogs.com/jikey/p/3613082.html
 ## 瘳雪峰的Javascript教程	http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
 ## jQuery基础教程	http://www.imooc.com/view/11
 ## 前端工程师必备的PS技能——切图篇	http://www.imooc.com/view/506
 ## 结合个人经历总结的前端入门方法	https://github.com/qiu-deqing/FE-learning
-
+## 
 ## 工具类	地址
 ## 前端人的俱乐部	http://f2er.club/ 真可以解放你的收藏夹
 ## 如何优雅地使用Sublime Text	http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/#
